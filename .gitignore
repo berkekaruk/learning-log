@@ -1,57 +1,32 @@
-<<<<<<< HEAD
+# --- Build & Dependency Directories ---
 target/
+build/
 !.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
-.kotlin
 
-### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+# --- IntelliJ IDEA ---
+.idea/
 *.iws
 *.iml
 *.ipr
 
-### Eclipse ###
-.apt_generated
+# --- VS Code ---
+.vscode/
+*.code-workspace
+
+# --- Eclipse & NetBeans (Just in case) ---
 .classpath
-.factorypath
 .project
 .settings
-.springBeans
-.sts4-cache
-
-### NetBeans ###
-/nbproject/private/
+/nbproject/
 /nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
 
-### VS Code ###
-.vscode/
-
-### Mac OS ###
+# --- macOS System Files ---
 .DS_Store
-=======
-# Compiled class file
+
+# --- Java Compiled Files ---
 *.class
-
-# Log file
 *.log
-
-# BlueJ files
 *.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
 *.jar
 *.war
 *.nar
@@ -60,7 +35,6 @@ build/
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# --- Crash Logs ---
 hs_err_pid*
 replay_pid*
->>>>>>> 7e9e3362044d5934f6151c6777617dc2282b0f7c
