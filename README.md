@@ -10,7 +10,7 @@ This repository serves as a centralized, high-density knowledge base for my jour
 ## 🗺️ Learning Roadmap
 To maintain a logical progression, this repository is structured by domain:
 
-* **`00-Setup-and-Workflow`**: Professional environment configuration (Git, SSH, macOS, IntelliJ).
+* **`00-Setup-and-Workflow`**: Professional environment configuration (Git, SSH, IntelliJ).
 * **`01-CS-Fundamentals-C`**: Low-level logic and memory management (via Harvard CS50).
 * **`02-Java-Deep-Dive`**: Advanced Java 21, JVM internals, and multithreading.
 * **`03-Data-Structures-Algorithms`**: The "Gatekeeper" fundamentals for Big Tech.
