@@ -5,25 +5,23 @@
 
 ## Common workflow
 1. Pulling latest changes from main branch:
-```console
+```bash
 git pull origin main
 ```
 2. Switching to an existing or creating and switching to a new branch:
-```console
+```bash
 git checkout [existingBranchName]
 ```
-
-```console
+```bash
 git checkout -b [newBranchName]
 ```
-
 3. Staging all files in the working directory and committing afterward:
-```console
+```bash
 git add .
 git commit -m "[commit message]"
 ```
 4. Pushing the current branch:
-```console
+```bash
 git push origin [existingBranchName]
 ```
 5. Opening and reviewing the pull request on GitHub.
