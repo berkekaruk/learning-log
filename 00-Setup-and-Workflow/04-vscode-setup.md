@@ -10,11 +10,10 @@
 
 ---
 
-## IDE & OS Configuration
+## Editor & OS Configuration
 * **Editor:** Visual Studio Code
     * **Configuration:** Workspace-isolated settings (via `.vscode` folder).
-    * **Code Style:** Clang-Format (Standard C formatting).
-    * **Theme:** Dark Modern (Default).
+    * **Code Style:** [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) (via Clang-Format).
 * **Operating System:** macOS
 * **Terminal:** Integrated Zsh - For manual compilation (`make`, `gcc`).
 
