@@ -16,18 +16,17 @@ To maintain a logical progression, this repository is structured by domain:
 * **`03-Data-Structures-Algorithms`**: The "Gatekeeper" fundamentals for Big Tech.
 * **`04-Backend-Architecture`**: Scalable systems, Spring Boot, and Cloud patterns.
 
-## 🛠️ Tech Stack used for this Log
-* **Editor**: IntelliJ IDEA
-* **Version Control**: Git / GitHub
-* **Documentation**: Markdown
-* **Environment**: macOS
+## 🛠️ Engineering Environment
+* **Primary IDE:** IntelliJ IDEA Ultimate (Java Engineering)
+* **Systems Editor:** Visual Studio Code (C / Memory Management)
+* **Toolchain:** Java 21 LTS & Clang (LLVM)
+* **Version Control:** Git / GitHub (SSH Authentication)
+* **OS:** macOS (Zsh / Homebrew)
 
 ---
 
 ## 📈 Evidence of Progress
 The content within these directories is updated daily as I move through my M.Sc. in Business Informatics and self-directed engineering challenges.
-
-> "The difference between an amateur and a professional is the quality of their documentation."
 
 ---
 **Contact:** [berke@karuk.de](mailto:berke@karuk.de)

@@ -1,4 +1,4 @@
-# 🖥 Tech Stack & Environment
+# 🖥 IntelliJ Environment
 ### Documentation of the development environment and tooling versions.
 
 ---
