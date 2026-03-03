@@ -90,3 +90,9 @@ Initiated by the escape character `\`, which tells the compiler that a special i
     - The update expression runs after each iteration
     - Commonly used when the number of iterations is known
     - Allows declaration of the loop variable directly inside the statement
+
+## Functions
+
+- Reusable blocks of code that perform a specific task to keep the main program clean and structured
+- Since the compiler reads from top to bottom, the function itself or a prototype (e.g. `void [functionName] (void);`) must be declared in the lines before it is called
+- Variables declared inside a function are local to that specific function (variable scope) and must be explicitly passed as arguments to be used elsewhere
