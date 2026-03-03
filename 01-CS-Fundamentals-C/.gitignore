@@ -1,0 +1,18 @@
+# ----------------------------------------------------------------------
+# C-Specific Gitignore (Deny All, Allow Source)
+# ----------------------------------------------------------------------
+
+# 1. Ignoring everything in this folder
+*
+
+# 2. But un-ignore following data type:
+!*.c
+!*.h
+!*.md
+!Makefile
+
+# 3. Allow sub-folder
+!*/
+
+# 4. Allow this .gitignore file itself
+!.gitignore
