@@ -57,10 +57,11 @@ Initiated by the escape character `\`, which tells the compiler that a special i
   | `==` | equal to |
   | `!=` | not equal to |
 
-## Data Types and Format Codes
+## Data Types, Constants & Format Codes
 
 - Data types define what kind of data a variable can store and how much memory it uses
 - Format codes tell functions like printf and scanf how to interpret and display a variable's data
+- Constants are declared using the `const` keyword (e.g. `const [type] [name] = [value];`) to make a variable strictly read-only, protecting its value from being altered
 
   | Type     | Purpose                       | Example                      | Format Code |
   | :------- | :---------------------------- | :--------------------------- | :---------: |
